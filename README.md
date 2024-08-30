@@ -1,4 +1,8 @@
-# Course Assignments Repository
+# Assignments for Online CCE Course
+
+## Course Name - AI and Machine Learning (Aug 2024)
+### Course Instructor - Prof. Sashikumaar Ganesan
+
 
 Welcome to the assignment repository for our course! This repository contains all the necessary files for your assignments.
 
@@ -31,6 +35,4 @@ We will send out a Google form for submissions.
    <a href="https://colab.research.google.com/github/emharsha1812/CCE_Assignment/blob/main/Assignments/Pandas.ipynb" target="_parent">
      <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Pandas In Colab"/>
    </a>
-
-We wish you the best of luck with your assignments! If you have any questions, please don't hesitate to reach out to the course instructors.
 
