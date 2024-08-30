@@ -2,7 +2,8 @@
 
 Welcome to the assignment repository for our course! This repository contains all the necessary files for your assignments.
 
-**Submission Deadline**: Please submit your completed assignments on or before [insert date].
+**Submission Deadline**: Please submit your completed assignments on or before **15/09/2024**.
+We will send out a Google form for submissions. 
 
 ## Important Guidelines
 
